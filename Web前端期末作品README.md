@@ -1,8 +1,7 @@
 # 个人作品展示与AI智能问答平台
 
 这是一个基于 Next.js 构建的个人作品展示平台，集成了 DeepSeek AI 智能问答功能。
-// ... existing code ...
-[![图片替代文本]([/Uploading/截屏2025-06-30 22.00.41.png)](/Uploading/截屏2025-06-30 22.00.41.png)
+<img width="1209" alt="截屏2025-06-30 22 00 41" src="https://github.com/user-attachments/assets/fb17fe58-2ef2-4d44-a746-3cc2bb89e1d1" />
 ## 功能特性
 
 ### 🎨 个人课程展示
