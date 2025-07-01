@@ -1,12 +1,8 @@
 # 个人作品展示与AI智能问答平台
 
 这是一个基于 Next.js 构建的个人作品展示平台，集成了 DeepSeek AI 智能问答功能。
-
 // ... existing code ...
-[![图片替代文本](/picture/page-demo1.png)](/picture/page-demo1.png)
-[![图片替代文本](/picture/page-demo2.png)](/picture/page-demo2.png)
-[![图片替代文本](/picture/page-demo3.png)](/picture/page-demo3.png)
-// ... existing code ...
+[![图片替代文本]([/Uploading/截屏2025-06-30 22.00.41.png)](/Uploading/截屏2025-06-30 22.00.41.png)
 ## 功能特性
 
 ### 🎨 个人课程展示
@@ -182,7 +178,3 @@ npm start
 - `tailwind.config.js` - 自定义 Tailwind 配置
 - `app/api/chat/route.ts` - 修改 AI API 配置
 - 各页面组件 - 添加新功能或修改界面
-
-## 许可证
-
-MIT License 
