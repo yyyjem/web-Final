@@ -1,9 +1,15 @@
-这是一个基于 Next.js 构建的个人作品展示平台，集成了 DeepSeek AI 智能问答功能。
+# 个人作品展示与AI智能问答平台
+
 主页面展示：
+
 <img width="1209" alt="截屏2025-06-30 22 00 41" src="https://github.com/user-attachments/assets/794e38cd-12d1-4b5f-8cf8-e97f959a83e1" />
+
 AI大模型页面展示(接入deepseek大模型，可以问它任何问题)：
+
 <img width="1224" alt="截屏2025-06-30 22 01 24" src="https://github.com/user-attachments/assets/8355b8b1-c705-45a9-871e-029cde3f0785" />
+
 作品上传页面展示(可以自己上传作品截图以及网址链接，平时作业都已部署于GitHub)：
+
 <img width="1169" alt="截屏2025-07-01 14 48 53" src="https://github.com/user-attachments/assets/e5f36802-7db2-4efb-90d6-4530800e9d36" />
 
 ## 功能特性
